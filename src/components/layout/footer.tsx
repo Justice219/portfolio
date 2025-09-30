@@ -2,7 +2,7 @@ export function SiteFooter() {
   return (
     <footer className="mt-24 border-t border-white/10 py-10 text-sm text-white/60">
       <div className="mx-auto flex max-w-5xl flex-col gap-4 px-6 sm:flex-row sm:items-center sm:justify-between">
-        <p>© {new Date().getFullYear()} James Bayless. Crafted with care in Austin, Texas.</p>
+        <p>© {new Date().getFullYear()} James Bayless. Crafted with care in San Antonio, Texas.</p>
         <div className="flex flex-wrap gap-4 text-white/60">
           <a
             href="mailto:hello@baylessenterprises.com"

@@ -48,7 +48,7 @@ export function HeroSection() {
             Available for visionary collaborations
           </span>
           <span className="rounded-full border border-white/5 bg-white/5 px-3 py-1 backdrop-blur-md">
-            Based in Austin, TX
+            Based in San Antonio, TX
           </span>
         </motion.div>
 
